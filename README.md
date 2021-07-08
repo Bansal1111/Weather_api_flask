@@ -15,6 +15,6 @@
 |    | Things Achieved During The Project                                                                                                                                     |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1. | Implementation of openweatherAPI and connections through flask.                                                                                                        |
-| 2. | The website was designed using botstrap,HTML,CSS which are basic tools for designing the front end of website.                                                         |
+| 2. | The website was designed using bootstrap,HTML,CSS which are basic tools for designing the front end of website.                                                         |
 | 3. | Implemented flash messages while deleting or adding a weather.                                                                                                         |
 </details> 
