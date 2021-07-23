@@ -8,6 +8,13 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </details>    
+
+<details><summary><b>Video Demonstration</b></summary>
+</br>
+<h4>Real time data fetched form OpenweatherAPI and displayed , also user can add any city as well as remove any city , therefore the same changes would reflect in database as well</h4>
+<img class="center" alt="Demo" src="Videos/demo.gif"> </img></br></br>
+</details>    
+  
   
 <details><summary><b>Things Achieved During The Project  </b></summary>
 </br>
