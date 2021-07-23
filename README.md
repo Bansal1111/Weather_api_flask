@@ -10,7 +10,6 @@
 </details>    
 
 <details><summary><b>Video Demonstration</b></summary>
-</br>
 <h4>Real time data fetched form OpenweatherAPI and displayed , also user can add any city as well as remove any city , therefore the same changes would reflect in database as well</h4>
 <img class="center" alt="Demo" src="Videos/demo.gif"> </img></br></br>
 </details>    
